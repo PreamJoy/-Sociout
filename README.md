@@ -1,2 +1,2 @@
-Social Media Portal For Testing Purpose
+Social Media Portal For Learning Purpose
 
